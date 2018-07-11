@@ -1,0 +1,5 @@
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
+  </ScalaCodeStyleSettings>
+</code_scheme>

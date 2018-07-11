@@ -1,0 +1,8 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
+  </component>
+  <component name="TypeAwareHighlightingApplicationState">
+    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
+  </component>
+</application>
